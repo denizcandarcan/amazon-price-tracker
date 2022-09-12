@@ -17,6 +17,7 @@ A simple web scraping project in Python 3.
 4. I already added 10 sample asins for test, you can remove my sample products or add your products via `asins.csv`.
 5. Thats it, run `app.py` then script will be start scraping for you :)
 6. To visualizes scrapped data  run `datareader.py`
+7. [Video Tutorial](https://youtu.be/uHiT-WgByvg)
 
 # How can i find my product asin?
 
