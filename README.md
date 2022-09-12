@@ -18,7 +18,7 @@ A simple web scraping project in Python 3.
 5. Thats it, run `app.py` then script will be start scraping for you :)
 6. To visualizes scrapped data  run `datareader.py`
 
-# How can i find my product asins?
+# How can i find my product asin?
 
 You can simply find asin of your product via link of item or searching with `ctrl+f for asin` on product page.
 
